@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "intelguasoft/restaurante-api",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Una plataforma de restaurante, flexible completamente, bajo costo. La RESTful API con todas las funciones del area de restaurantes que le permite codificar en el lenguaje que usted elija.",
     "keywords": [
         "framework",
         "laravel"
@@ -33,7 +33,7 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "app/"
+            "IntelGUA\\FoodPoint\\": "app/"
         },
         "classmap": [
             "database/seeds",

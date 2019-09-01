@@ -169,11 +169,11 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        // App\Providers\BroadcastServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        IntelGUA\FoodPoint\Providers\AppServiceProvider::class,
+        IntelGUA\FoodPoint\Providers\AuthServiceProvider::class,
+        // IntelGUA\FoodPoint\Providers\BroadcastServiceProvider::class,
+        IntelGUA\FoodPoint\Providers\EventServiceProvider::class,
+        IntelGUA\FoodPoint\Providers\RouteServiceProvider::class,
 
     ],
 

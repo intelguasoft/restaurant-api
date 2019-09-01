@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace IntelGUA\FoodPoint\Http\Controllers\Auth;
 
-use App\Http\Controllers\Controller;
+use IntelGUA\FoodPoint\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\VerifiesEmails;
 
 class VerificationController extends Controller
