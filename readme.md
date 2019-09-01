@@ -80,6 +80,7 @@ The FoodPoint platform builds of years of enterprise experience with high-volume
 > Get up and running, fast!
 
 Using FoodPoint technology, your digital restaurant operation can be driving new revenue in weeks, mot months, or even years!
+
 ![](https://static.wixstatic.com/media/2b68c3_c133f00091dd44b5b91178b4950060af~mv2.png)
 
 ## CUSTOMER SERVICE FOR RESTAURANTS
@@ -89,3 +90,5 @@ Using FoodPoint technology, your digital restaurant operation can be driving new
 We understand your business needs mission-critical support around the clock. That's why we provide a personalised priority customer support service 24/7.
 
 ![](https://res.cloudinary.com/intelgua-software-design/image/upload/v1567355329/freddy_marroquin_support_w7qrr8.png)
+
+![](https://res.cloudinary.com/intelgua-software-design/image/upload/v1567363368/er_restaurante_n9gy5t.png)
