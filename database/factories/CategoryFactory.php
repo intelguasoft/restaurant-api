@@ -2,12 +2,12 @@
 
 /** @var \Illuminate\Database\Eloquent\Factory $factory */
 
-use IntelGUA\FoodPoint\Category;
 use Faker\Generator as Faker;
+use IntelGUA\FoodPoint\Models\Category as Category;
 
 $factory->define(Category::class, function (Faker $faker) {
     return [
         'name' => $faker->sentence($nbWords = 3, $variableNbWords = true),
-        'email' => $faker->text($maxNbChars = 450),
+        'description' => $faker->text($maxNbChars = 450),
     ];
 });

@@ -3,6 +3,7 @@
 namespace IntelGUA\FoodPoint\Http\Controllers\API;
 
 use Illuminate\Http\Request;
+use IntelGUA\FoodPoint\Http\Controllers\Controller;
 use IntelGUA\FoodPoint\Models\Category;
 
 class CategoriesController extends Controller
@@ -14,7 +15,7 @@ class CategoriesController extends Controller
      */
     public function index()
     {
-        $categories = Category::all();
+        $categories = Category::paginate(10);
 
         if(is_null($categories))
         {
