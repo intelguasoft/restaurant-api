@@ -73,13 +73,13 @@ Complete control over your brand design and online experience, FoodPoint looks a
 
 > Technology engineered for scale
 
-The Foodkit platform builds of years of enterprise experience with high-volume partners and offers you best-in-industry speed, reliability and security.
+The FoodPoint platform builds of years of enterprise experience with high-volume partners and offers you best-in-industry speed, reliability and security.
 
 ## RAPID SETUP
 
 > Get up and running, fast!
 
-Using Foodkit technology, your digital restaurant operation can be driving new revenue in weeks, mot months, or even years!
+Using FoodPoint technology, your digital restaurant operation can be driving new revenue in weeks, mot months, or even years!
 ![](https://static.wixstatic.com/media/2b68c3_c133f00091dd44b5b91178b4950060af~mv2.png)
 
 ## CUSTOMER SERVICE FOR RESTAURANTS
