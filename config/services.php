@@ -35,7 +35,7 @@ return [
     ],
 
     'stripe' => [
-        'model' => IntelGUA\FoodPoint\User::class,
+        'model' => IntelGUA\FoodPoint\Models\User::class,
         'key' => env('STRIPE_KEY'),
         'secret' => env('STRIPE_SECRET'),
         'webhook' => [

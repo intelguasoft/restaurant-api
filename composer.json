@@ -3,15 +3,25 @@
     "type": "project",
     "description": "Una plataforma de restaurante, flexible completamente, bajo costo. La RESTful API con todas las funciones del area de restaurantes que le permite codificar en el lenguaje que usted elija.",
     "keywords": [
-        "framework",
-        "laravel"
+        "restaurante",
+        "comida rápida",
+        "fast food",
+        "Puerto Barrios",
+        "Freddy",
+        "Marroquín",
+        "Thomas",
+        "Jimenez",
+        "pedido",
+        "food"
     ],
     "license": "MIT",
     "require": {
         "php": "^7.1.3",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "5.8.*",
-        "laravel/tinker": "^1.0"
+        "laravel/tinker": "^1.0",
+        "setasign/fpdf": "^1.8",
+        "tymon/jwt-auth": "^1.0.0-rc.4.1"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",

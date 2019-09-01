@@ -16,3 +16,10 @@ use Illuminate\Http\Request;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+Route::prefix('v1/auth')->group(function () {
+    Route::post('login', 'API\AuthController@login')->name('auth.login');
+    Route::post('logout', 'API\AuthController@logout')->name('auth.logout');
+    Route::post('refresh', 'API\AuthController@refresh')->name('auth.refresh');
+    Route::post('show', 'API\AuthController@showMe')->name('auth.show');
+});
