@@ -1,72 +1,91 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+# Restaurant Platform and RESTful API
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+> One restaurant platform, complete flexibility, less cost.
 
-## About Laravel
+We power the world's best brands with FoodPoint's white-label restaurant platform and RESTful API.
+![](https://static.wixstatic.com/media/2b68c3_c0547352de404be48251effd98ac04d2~mv2.png)
+The FoodPoint platform allows integration with the following types of systems:
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+- E-commerce apps, websites and kiosks
+- Enterprise customer service module and CRM
+- Delivery management and logistics
+- Omnichannel marketing and loyalty programs
+- POS integration
+- Open API and more.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## A Revolution in Restaurant Technology
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+> A restaurant technology platform with the flexibility to grow, adapt and delight
 
-## Learning Laravel
+Building and managing technology for a modern restaurant brand is complex and stressful - costly development, crashed technology, and infrastructure that burns through development resources.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+FoodPoint gives your brand a powerful white-label platform with unmatched flexibility and stability, so you can grow your brand, instead of worrying about backend technology and code.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1400 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## WORK SMART, NOT HARD
 
-## Laravel Sponsors
+> Goodbye complexity, Hello FoodPoint!
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
+## OMNICHANNEL RESTAURANT PLATFORM
 
-## Contributing
+> A multi-channel restaurant platform built for the 21st century
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Connecting your in-store experience with your online experience is a critical requirement for restaurants that operate in today's connected world.
 
-## Security Vulnerabilities
+Your customers buy what they want, when they want, through the channel they prefer. They demand digital ordering, fast delivery, VIP rewards and a variety of payment options.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+|||
+|----------|-------------:|
+|Omni-channel digital ordering including e-commerce app and website, chatbot and in-store kiosk.| :heavy_check_mark: |
+|Flexible order flows including delivery, pre-order, takeout and in-store (kiosk) ordering| :heavy_check_mark: |
+|Integrated call centre & customer service platform with a powerful 360-degree CRM.| :heavy_check_mark: |
+|Automated logistics integrations and tools that take the hassle out of high-volume food delivery| :heavy_check_mark: |
+|Loyalty and membership programs that reward customers online and in-store| :heavy_check_mark: |
 
-## License
+## OMNI-CHANNEL SOLUTION
 
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+> Designed and built for a modern day restaurant brand
+
+| | |
+|----------|-------------|
+| __DIGITAL ORDERING__
+![](https://static.wixstatic.com/media/2b68c3_ae5a1a4f5f484439b1cd630764c89677~mv2.png/v1/fill/w_55,h_55,al_c,q_80,usm_0.66_1.00_0.01/2b68c3_ae5a1a4f5f484439b1cd630764c89677~mv2.webp)  |  Sell direct to consumer with beautiful white-label iOS and Android apps, in-store kiosks, web and chatbot technology |
+| __LOYALTY & REWARDS__
+![](https://static.wixstatic.com/media/2b68c3_0bd6d71fe05245eba20a5063c9244d17~mv2.png/v1/fill/w_55,h_55,al_c,q_80,usm_0.66_1.00_0.01/2b68c3_0bd6d71fe05245eba20a5063c9244d17~mv2.webp) |  Launch powerful reward and  membership programs that seamlessly connect online and in-store operations |
+| __CUSTOMER SERVICE & CRM__
+![](https://static.wixstatic.com/media/2b68c3_d6bfa9b103ea4cafb1c6e5748516539e~mv2.png/v1/fill/w_55,h_55,al_c,q_80,usm_0.66_1.00_0.01/2b68c3_d6bfa9b103ea4cafb1c6e5748516539e~mv2.webp) |  Integrated enterprise Call Centre solution with complete 360-degree view of your digital operation and  customer interactions. |
+| __LOGISTICS & DELIVERY__
+![](https://static.wixstatic.com/media/2b68c3_82b9bd05bc8948baa2bf4bee7ffba357~mv2.png/v1/fill/w_55,h_55,al_c,q_80,usm_0.66_1.00_0.01/2b68c3_82b9bd05bc8948baa2bf4bee7ffba357~mv2.webp) |  Full-featured driver apps for fleet efficiency and access to FoodPoint's extensive Delivery Network  of 3rd party delivery drivers. |
+| __POS & ORDER MANAGEMENT__
+![](https://static.wixstatic.com/media/2b68c3_645cccdb044b4f56950d1d13d0f6c7da~mv2.png/v1/fill/w_55,h_55,al_c,q_80,usm_0.66_1.00_0.01/2b68c3_645cccdb044b4f56950d1d13d0f6c7da~mv2.webp) |  FoodPoint seamlessly integrates with leading POS systems so you can optimise and automate your front-of-house operations. |
+| __PAYMENTS__
+![](https://static.wixstatic.com/media/2b68c3_da0632b5ca4643cbb6705ffb188fbea8~mv2.png/v1/fill/w_55,h_55,al_c,q_80,usm_0.66_1.00_0.01/2b68c3_da0632b5ca4643cbb6705ffb188fbea8~mv2.webp) |  Offer the digital payment solutions your customers demand and lock-in customer value with a white labelled eWallet. |
+
+## COMPLETE DESIGN FLEXIBILITY
+
+> Your brand, designed your way
+
+Complete control over your brand design and online experience, FoodPoint looks after the backend and code.
+
+![](https://res.cloudinary.com/intelgua-software-design/image/upload/v1567353938/menu_don_chon_rzav9m.png)
+
+## RELIABLE, SCALABLE AND SECURE
+
+> Technology engineered for scale
+
+The Foodkit platform builds of years of enterprise experience with high-volume partners and offers you best-in-industry speed, reliability and security.
+
+## RAPID SETUP
+
+> Get up and running, fast!
+
+Using Foodkit technology, your digital restaurant operation can be driving new revenue in weeks, mot months, or even years!
+![](https://static.wixstatic.com/media/2b68c3_c133f00091dd44b5b91178b4950060af~mv2.png)
+
+## CUSTOMER SERVICE FOR RESTAURANTS
+
+> Not just a platform, we're your partner
+
+We understand your business needs mission-critical support around the clock. That's why we provide a personalised priority customer support service 24/7.
+
+![](https://res.cloudinary.com/intelgua-software-design/image/upload/v1567355329/freddy_marroquin_support_w7qrr8.png)
